@@ -1,0 +1,6 @@
+0 4600 Wirchlik test email 120 0 $
+1 600 Tapak test email 20 0 $
+2 12399 test test email 0 0 $
+3 9200 Elmond test email 120 1 $
+4 1921 Rio test mail 3232 0 $
+

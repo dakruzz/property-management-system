@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528895048 source:c:\users\dakruzz\desktop\zarzadzanienieruchomosciamilight\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<cctype>
+	<string>
+	<time.h>
+	<ctime>
+
